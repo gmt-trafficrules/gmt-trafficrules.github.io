@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "TrafficJamShowdown1.0Web.data.unityweb",
+"asmCodeUrl": "TrafficJamShowdown1.0Web.asm.code.unityweb",
+"asmMemoryUrl": "TrafficJamShowdown1.0Web.asm.memory.unityweb",
+"asmFrameworkUrl": "TrafficJamShowdown1.0Web.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
